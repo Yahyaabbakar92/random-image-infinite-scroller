@@ -16,6 +16,12 @@ Load more images into screen when reaching the bottom of window
 
 ## Things I learned
 
+- window.pageYOffset & window.scrollY
+- scroll event
+- window.innerHeight
+- scrollHeight
+- offsetHeight
+
 ## Thought process
 
 - Get images from API
