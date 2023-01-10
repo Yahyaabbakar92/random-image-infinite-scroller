@@ -6,13 +6,15 @@ Live: ()
 
 Date started: 9 January 2023
 
-Date completed:
+Date completed: 10 January 2023
 
 ## Objectives
 
 Load more images into screen when reaching the bottom of window
 
 ## Screenshot
+
+![Alt text](Screenshot%202023-01-10%20at%2011.18.00.png)
 
 ## Things I learned
 
