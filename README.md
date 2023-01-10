@@ -2,7 +2,7 @@
 
 Personal project
 
-Live: ()
+Live: (https://yahyaabbakar92.github.io/random-image-infinite-scroller/)
 
 Date started: 9 January 2023
 
