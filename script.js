@@ -1,3 +1,4 @@
+const body = document.querySelector('body');
 const imgContainer = document.querySelector('.image-container');
 const loader = document.getElementById('loader');
 let count = 5;
@@ -30,5 +31,11 @@ function displayImages() {
 		imgContainer.appendChild(item);
 	});
 }
+
+window.addEventListener('scroll', () => {
+	if (window.scrollY + window.innerHeight >= body.scrollHeight) {
+		getImages();
+	}
+});
 
 getImages();
